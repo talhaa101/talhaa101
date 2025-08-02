@@ -11,11 +11,11 @@
 
 - 📫 How to reach me **talha007abu@gmail.com**
 
-- ⚡ Fun fact --> **I think I am so funny :)**
+- ⚡ Fun fact - **I think I am funny :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abu-talha-ab3561315/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.linkedin.com/in/abu-talha-ab3561315/)" alt="https://www.linkedin.com/in/abu-talha-ab3561315/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abu-talha-ab3561315/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abu-talha-ab3561315/" height="30" width="40" /></a>
 <a href="https://fb.com/talhaoabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="talhaoabu" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@abuotalha101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@abuotalha101" height="30" width="40" /></a>
 </p>
