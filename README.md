@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **talha007abu@gmail.com**
 
-- ⚡ Fun fact **I think I am funny :)**
+- ⚡ Fun fact --> **I think I am so funny :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
