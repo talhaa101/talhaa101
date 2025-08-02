@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abu Talha</h1>
+<h1 align="center">Hi 👋 I'm Abu Talha</h1>
 <h3 align="center">I am passionate about DSA & Full Stack Development</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/Ry6p.gif">
 
@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Java, C++ & JavaScript**
 - 💬 Ask me about **Java, C++ & JavaScript**
 - 📫 How to reach me **talha007abu@gmail.com**
-- ⚡ Fun fact **I think I am funny :)**
+- ⚡ Fun fact - **I think I am so funny :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
