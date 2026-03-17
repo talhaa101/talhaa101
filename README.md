@@ -6,8 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=talhaa101&label=Profile%20views&color=0e75b6&style=flat" alt="talhaa101" />
 </p>
 
-- 🌱 I’m currently learning **Java, C++ & JavaScript**
-- 💬 Ask me about **Java, C++ & JavaScript**
+- 🌱 I’m currently learning **C, C++, Java, Python & JavaScript**
+- 💬 Ask me about **Java, C++, Python & JavaScript**
 - 📫 How to reach me **talha007abu@gmail.com**
 - ⚡ Fun fact - **I think I am so funny :)**
 
